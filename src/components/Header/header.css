@@ -1,0 +1,32 @@
+.header-layout {
+  width: 100%;
+  background-color: #FF9F3F;
+  height: 100px;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+@media (max-width: 500px) {
+  .header-layout {
+    height: 144px;
+  }
+  .header-layout,
+  h2 {
+    padding: 10px;
+  }
+}
+
+.phone-contact {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.phone-contact:hover {
+  color: white;
+}
