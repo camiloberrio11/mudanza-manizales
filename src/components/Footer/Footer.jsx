@@ -14,12 +14,12 @@ const Footer = () => {
                   <h4 className="widget-title">Contacto</h4>
                   <ul className="footer-menu">
                     <li>
-                      <a href="http://wa.me/+573004772645" target="_blank" rel="noreferrer">
+                      <a href="http://wa.me/+573217779432" target="_blank" rel="noreferrer">
                         Whatsapp
                       </a>
                     </li>
                     <li>
-                      <a href="tel:+573004772645" target="_blank" rel="noreferrer">
+                      <a href="tel:+573217779432" target="_blank" rel="noreferrer">
                         Llamar
                       </a>
                     </li>
