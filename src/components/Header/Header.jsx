@@ -8,7 +8,7 @@ const Header = () => {
         <h2>Mudanzas en Manizales </h2>
         <a
           className="animate__animated animate__backInDown partner-info phone-contact "
-          href="http://wa.me/+573217779432?text=Hola, buen día! Estoy pendiente de realizar un trasteo y quisiera recibir más información. Gracias"
+          href="http://wa.me/+573004772645?text=Hola, buen día! Estoy pendiente de realizar un trasteo y quisiera recibir más información. Gracias"
           target="_blank"
           rel="noreferrer"
         >
