@@ -12,7 +12,7 @@ const Header = () => {
           target="_blank"
           rel="noreferrer"
         >
-          311 380 9813
+          311 380 9813 - 300 477 2645
         </a>
       </div>
     </div>
